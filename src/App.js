@@ -1,8 +1,12 @@
 import React from 'react';
 
+import Routes from './routes.js';
+
+import './styles.css';
+
 function App() {
   return (
-    <div />
+    <Routes />
   );
 }
 
